@@ -5,6 +5,7 @@ import Image from 'next/image';
 import { motion } from 'motion/react';
 import { 
   Play, 
+  CheckCircle2,
   Sun, 
   User, 
   Maximize2, 
